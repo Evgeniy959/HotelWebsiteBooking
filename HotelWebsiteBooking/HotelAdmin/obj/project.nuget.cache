@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3ceSFURcgWO9jvgTHeBkgoXUhItA2iTZ+HYu/ljU533w58Q2KKZqkD0XD/4k0PUL295J0/YQ5P9rVnj4IdSZA==",
+  "dgSpecHash": "GoREklAHUINGykH/9uTcQ7NOZO6MsVK8qP25TLDqyn/HuJyFPDBcu+BL/zz+VgRfSvs39O+k0gpHJypXPP7Pzw==",
   "success": true,
-  "projectFilePath": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\HotelAdmin.csproj",
+  "projectFilePath": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\HotelWebsiteBooking\\HotelWebsiteBooking\\HotelAdmin\\HotelAdmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
