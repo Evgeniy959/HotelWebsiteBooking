@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HotelAdmin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelAdmin.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-1.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-2.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-3.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-3.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-4.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-4.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-5.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-5.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-6.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-6.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-b1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b1.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-b2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b2.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-b3.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b3.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-b4.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b4.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\img\\room\\room-details.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-details.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\uploads\\37d316f2-015a-4ad2-a115-260179eca902.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37d316f2-015a-4ad2-a115-260179eca902.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\uploads\\3b5baa26-ffd1-4b03-8184-fc2ca6bcb8a5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3b5baa26-ffd1-4b03-8184-fc2ca6bcb8a5.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\uploads\\77933c7f-3984-45bf-938a-c9d7c3685879.jpg",
+      "PackagePath": "staticwebassets\\uploads\\77933c7f-3984-45bf-938a-c9d7c3685879.jpg"
+    },
+    {
+      "Id": "D:\\Study-11.02.2023\\Study\\Web курсовой проект\\Проекты\\CourseProjectWeb\\HotelWebsiteBooking\\HotelAdmin\\wwwroot\\uploads\\fccdd119-276c-4932-b96f-a579243eca82.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fccdd119-276c-4932-b96f-a579243eca82.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HotelAdmin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HotelAdmin.props",
+      "PackagePath": "build\\HotelAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelAdmin.props",
+      "PackagePath": "buildMultiTargeting\\HotelAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HotelAdmin.props",
+      "PackagePath": "buildTransitive\\HotelAdmin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
